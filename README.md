@@ -6,8 +6,8 @@ A UNIX command interpreter for ALX school Group project. This program was writte
 
 ## AUTHORS
 
-This file contains the details of all the individuals that contributed to this shell project. shedu victor
+This file contains the details of all the individuals that contributed to this shell project. 
 
 ## Credits
 
-All codes written by Mikiyas Bekele and Adam Debalke.
+All codes written by Shedu Victor
