@@ -6,7 +6,7 @@ A UNIX command interpreter for ALX school Group project. This program was writte
 
 ## AUTHORS
 
-This file contains the details of all the individuals that contributed to this shell project.
+This file contains the details of all the individuals that contributed to this shell project. shedu victor
 
 ## Credits
 
